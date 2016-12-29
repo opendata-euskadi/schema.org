@@ -1,0 +1,1 @@
+Colección de muestras JSON-LD/Schema.org

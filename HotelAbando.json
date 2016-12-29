@@ -1,0 +1,181 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Hotel", 
+  "petsAllowed":false,
+  "starRating":{
+      "@type": "Rating",
+      "bestRating": 5,
+      "worstRating":1,
+      "ratingValue":4
+  },
+  "audience":{
+    "@type": "Audience",
+    "audienceType": "Cualquier persona"
+  },
+  "paymentAccepted":"Cash, credit card",
+  "priceRange": "60-181.9",
+  "currenciesAccepted":"EUR",
+  "name": "HOTEL ABANDO",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Bilbao",
+    "addressRegion": "Vizcaya", 
+    "postalCode": "48001",
+    "streetAddress":"Colón de Larreategui 9"
+  }, 
+  "email": "abando@aranzazu-hoteles.com",
+  "image":"http://opendata.euskadi.eus/contenidos/a_alojamiento/0000000005_a1_rec_turismo/es_5/images/hotelabandofachada.jpg", 
+  "telephone": "944236200",
+  "hasOfferCatalog":{
+  "@type": "OfferCatalog",
+  "itemListElement":[{
+  "@type": "ListItem",
+  "position": 1,
+  "item":{
+  "name": "Arbolado"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 2,
+   "item":{
+   "@type":"Thing",
+  "name": "Ascensor"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 3,
+   "item":{
+  "@type":"Thing",
+  "name": "Cafeteria "}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 4,
+   "item":{
+   "@type":"Thing",
+  "name": "Préstamo"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 5,
+   "item":{
+   "@type":"Thing",
+  "name": "Caja fuerte"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 6,
+   "item":{
+   "@type":"Thing",
+  "name": "Cambio moneda"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 7,
+   "item":{
+   "@type":"Thing",
+  "name": "Custodia de valores"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 8,
+   "item":{
+   "@type":"Thing",
+  "name": "Comedor"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 9,
+   "item":{
+   "@type":"Thing",
+  "name": "Habitaciones climatizadas"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 10,
+   "item":{
+   "@type":"Thing",
+  "name": "Internet"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 11,
+   "item":{
+   "@type":"Thing",
+  "name": "Internet"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 12,
+   "item":{
+   "@type":"Thing",
+  "name": "Internet"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 13,
+   "item":{
+   "@type":"Thing",
+  "name": "Jardin "}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 14,
+   "item":{
+   "@type":"Thing",
+  "name": "Mini-bar"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 15,
+   "item":{
+   "@type":"Thing",
+  "name": "Sauna"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 16,
+   "item":{
+   "@type":"Thing",
+  "name": "Sala de reuniones"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 17,
+   "item":{
+   "@type":"Thing",
+  "name": "Secador de pelo"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 18,
+   "item":{
+   "@type":"Thing",
+  "name": "Servicio en habitaciones"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 19,
+   "item":{
+   "@type":"Thing",
+  "name": "Teléfono público"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 20,
+   "item":{
+   "@type":"Thing",
+  "name": "Tienda"}
+  },
+  {
+   "@type": "ListItem", 
+   "position": 21,
+   "item":{
+   "@type":"Thing",
+  "name": "Television"}
+  }
+  ]
+}
+ }
+  

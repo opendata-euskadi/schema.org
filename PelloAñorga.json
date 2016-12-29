@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person",
+  "email": "pelloanorga@gmail.com",
+  "jobTitle" : "Writter",
+  "gender": "http://schema.org/Male",
+  "givenName": "Pello",
+  "familyName": "Añorga",
+  "workLocation":{
+    "@type":"Place",
+    "telephone": "943490300",
+    "address":{
+    "@type": "PostalAddress",
+      "addressCountry": "ES",
+      "addressLocality": "Oiartzun",
+      "addressRegion": "Gipuzkoa", 
+      "postalCode": "20180",
+      "streetAddress":"Rafael Pikabea, 38"
+    }
+  }
+}
+
+<ul>
+  <li>
+    <span class="campo">Lugar</span>
+    <span>Rafael Pikabea, 38 - Oiartzun 20180</span>
+  </li>
+  <li></li>
+  <li>
+    <span class="campo">Teléfono</span>
+    <span>943490300</span>
+  </li>
+  <li>
+    <span class="campo">Email</span>
+    <span>pelloanorga@gmail.com</span>
+  </li>
+  <li>
+    <span class="campo">Web</span>
+    <span> 
+      <a target="_blank" href="http://pelloanorga.weborria.com">
+        http://pelloanorga.weborria.com
+      </a>
+    </span>
+  </li>
+  <li>
+
+  ...

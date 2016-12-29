@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Hotel", 
+  "petsAllowed":false,
+  "starRating":{
+      "@type": "Rating",
+      "bestRating": 5,
+      "worstRating":1,
+      "ratingValue":4
+  },
+  "audience":{
+    "@type": "Audience",
+    "audienceType": "Cualquier persona"
+  },
+  "paymentAccepted":"Cash, credit card",
+  "priceRange": "60-181.9",
+  "currenciesAccepted":"EUR",
+  "name": "HOTEL ABANDO",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Bilbao",
+    "addressRegion": "Vizcaya", 
+    "postalCode": "48001",
+    "streetAddress":"Colón de Larreategui 9"
+  }, 
+  "email": "abando@aranzazu-hoteles.com",
+  "image":"http://opendata.euskadi.eus/contenidos/a_alojamiento/0000000005_a1_rec_turismo/es_5/images/hotelabandofachada.jpg", 
+  "telephone": "944236200",
+  "amenityFeature":{
+      "@type": "LocationFeatureSpecification",
+      "name":"Sauna"
+  }
+}

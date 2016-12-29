@@ -1,0 +1,20 @@
+﻿//La clase EducationEvent, posee una propiedad "location" que se usa para indicar que el curso es online y no se impartirá en ningun sitio. 
+//Schema considera válido que se indique la localización por medio de "Place", "PostalAddress", y "Text", pero al querer usar Text, Google no lo da
+//por válido, y no lo identifica como "Text"  si no como "Thing".
+
+
+{
+  "@context": "http://schema.org",
+  "@type": "EducationEvent", 
+  "name": "WORD 2010 AVANZADO", 
+  "startDate": "2017-10-09", 
+  "endDate": "2017-10-27",
+  "isAccessibleForFree" : false, 
+  "location":"online",
+  "inLanguage":{
+  "@type": "Language",
+   "name": "Spanish",
+   "alternateName": "es"}, 
+   "description": "Acción formativa incluída dentro del plan de formación programado por el Servicio de Formación del IVAP. Este curso está dirigido al personal de la Administración Pública de la Comunidad Autónoma de Euskadi. ", 
+  "url":"http://autoprestakuntza.euskadi.eus/"
+}

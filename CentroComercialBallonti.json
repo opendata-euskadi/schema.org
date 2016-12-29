@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ShoppingCenter",
+  "name": "Ballonti",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Portugalete",
+    "addressRegion": "Bizkaia", 
+    "postalCode": "48920",
+    "streetAddress":"Avenida Ballonti, 33"
+  },
+  "email": "aballonti@ccballonti.com",
+  "image": "http://opendata.euskadi.eus/contenidos/l_compras/0000029521_l3_rec_turismo/es_29521/images/Ballonti_H.jpg", 
+  "telephone": "944915246",
+  "faxNumber": "944 926 822",
+  "legalName": "Ballonti", 
+  "paymentAccepted":"Cash, credit card",
+  "currenciesAccepted":"Euro"
+  }

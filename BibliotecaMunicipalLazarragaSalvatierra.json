@@ -1,0 +1,90 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Library",
+    "name": "Salvatierra - Biblioteca Municipal Lazarraga",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "ES",
+      "addressLocality": "Salvatierra / Agurain",
+      "addressRegion": "Araba", 
+      "postalCode": "01200",
+      "streetAddress":"Zapatari, 35"
+    }, 
+    "email": "liburutegia@agurain.com",
+    "telephone": "945 302 938",
+    "url": "http://opendata.euskadi.eus/biblioteca/salvatierra-biblioteca-municipal-lazarraga/w79-contdata/es/",
+    "image":"https://www.flickr.com/photos/eips/8773151482/",
+
+
+
+
+
+    "openingHours": "Mo, Tu, We, Th, Fr 10:00-13:30 16:30-20:00",
+
+
+
+
+
+    
+     
+    "hasOfferCatalog":{
+    "@type": "OfferCatalog",
+    "itemListElement":[
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item":{
+          "name": "Consulta"
+          }
+      },
+      {
+        "@type": "ListItem", 
+        "position": 2,
+        "item":{
+          "@type":"Thing",
+          "name": "Hemeroteca"
+          }
+      },
+      {
+        "@type": "ListItem", 
+        "position": 3,
+        "item":{
+          "@type":"Thing",
+          "name": "WIFI"
+          }
+      },
+      {
+        "@type": "ListItem", 
+        "position": 4,
+        "item":{
+          "@type":"Thing",
+          "name": "Préstamo"
+          }
+      },
+      {
+        "@type": "ListItem", 
+        "position": 5,
+        "item":{
+          "@type":"Thing",
+          "name": "Préstamo Interbibliotecario"
+        }
+      },
+      {
+       "@type": "ListItem", 
+       "position": 6,
+       "item":{
+        "@type":"Thing",
+        "name": "Internet (para usuarios)"
+        }
+      },
+      {
+       "@type": "ListItem", 
+       "position": 7,
+       "item":{
+        "@type":"Thing",
+        "name": "Introduccion a la base de datos"
+        }
+      }
+    ]
+  }
+}

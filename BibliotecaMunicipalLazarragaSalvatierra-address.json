@@ -1,0 +1,84 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Library",
+    "name": "Salvatierra - Biblioteca Municipal Lazarraga",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "ES",
+      "addressLocality": "Salvatierra / Agurain",
+      "addressRegion": "Araba", 
+      "postalCode": "01200",
+      "streetAddress":"Zapatari, 35"
+    }, 
+    "email": "liburutegia@agurain.com",
+    "telephone": "945 302 938",
+    "url": "http://opendata.euskadi.eus/biblioteca/salvatierra-biblioteca-municipal-lazarraga/w79-contdata/es/",
+    "mainEntityOfPage":{
+      "@type": "Blog", 
+      "url": "http://liburutegiak.blog.euskadi.eus/agurain/"
+    },
+    "hasMap":"https://www.google.com/maps/@42.8523426,-2.3901853,13z?hl=es-ES",
+    "image":"https://www.flickr.com/photos/eips/8773151482/",
+    "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Friday", 
+      "opens": "10:00:00",
+      "closes":  "13:30:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Friday",
+      "opens": "16:30:00",
+      "closes": "20:00:00" 
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Thursday",
+      "opens": "10:00:00",
+      "closes":  "13:30:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Thursday",
+      "opens": "16:30:00",
+      "closes": "20:00:00" 
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Wednesday",
+      "opens": "10:00:00",
+      "closes":  "13:30:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Wednesday",
+      "opens": "16:30:00",
+      "closes": "20:00:00" 
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Tuesday",
+      "opens": "10:00:00",
+      "closes":  "13:30:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Tuesday",
+      "opens": "16:30:00",
+      "closes": "20:00:00" 
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Monday",
+      "opens": "10:00:00",
+      "closes":  "13:30:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "http://schema.org/Monday",
+      "opens": "16:30:00",
+      "closes": "20:00:00" 
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+"@context": "http://schema.org",
+"@type": "Article",
+"author": {
+"@type": "Organization", 
+"name": "euskadikoorkestra",
+"url": "http://www.euskadikoorkestra.es"},
+"publisher": {
+"@type": "Organization", 
+"name":"euskadikoorkestra",
+"logo":{
+"@type": "ImageObject",
+"url": "http://www.euskadikoorkestra.es/web/img/es/logo.gif"
+}
+},
+"articleBody": "
+'Mosaico de Sonidos' tiene su germen y un claro precedente en la colaboración entre la Orquesta Sinfónica de Euskadi y la Federación Vasca de Asociaciones de Personas con Discapacidad Intelectual o del Desarrollo (FEVAS). En pro de la plena inclusión, desde 2009 la alianza formada por ambas instituciones se materializa año tras año en proyectos que tienen como protagonistas a personas con diversidad funcional; en este contexto, se vienen realizando talleres en Bilbao y San Sebastián, en colaboración con diferentes asociaciones, así como conciertos en la sede de la Orquesta en Miramón para miembros de estas asociaciones y sus familias. Estas actividades merecieron en 2010 el premio 'Buena Práctica' otorgado por la Confederación Española de Organizaciones en favor de las Personas con Discapacidad Intelectual (FEAPS),
+La experiencia adquirida en estos años de colaboración se convirtió en el año 2013 en el punto de partida del proyecto 'Mosaico de Sonidos'. Por primera vez, y de la mano de la Asociación Española de Orquestas Sinfónicas (AEOS), la confederación Plena Inclusión (de la que forma parte FEVAS) y de la Fundación BBVA, el proyecto 'Mosaico de Sonidos' ha trasladado a 14 orquestas sinfónicas a nivel estatal esta práctica pionera en la que la música se convierte en instrumento de desarrollo personal e inclusión social. 'Mosaico de Sonidos' en la Orquesta Sinfónica de Euskadi",
+"headline": "La Orquesta Sinfónica de Euskadi presenta 'Mosaico de Sonidos'",
+"datePublished":"2016-12-21",
+"image":{
+"@type":"ImageObject",
+"height": 326,
+"width":{ 
+"@type":"QuantitativeValue",
+"value":490
+},
+"url": "http://opendata.euskadi.eus/contenidos/noticia/2016122109153722/es_def/images/eos.jpg"
+}
+  }
