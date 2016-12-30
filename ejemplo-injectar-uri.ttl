@@ -1,0 +1,7 @@
+<http://euskadi.eus/AlexLara> <http://schema.org/name> "Alex Lara" .
+<http://euskadi.eus/AlexLara> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Person> .
+_:b0 <http://schema.org/accountId> "xxxx-xxxx-xxxx-1234" .
+_:b0 <http://schema.org/customer> <http://euskadi.eus/AlexLara> .
+_:b0 <http://schema.org/description> "January 2015 Visa bill." .
+_:b0 <http://schema.org/url> <http://acmebank.com/invoice.pdf> .
+_:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Invoice> .

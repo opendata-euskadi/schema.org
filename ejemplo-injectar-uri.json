@@ -1,0 +1,12 @@
+{
+    "@context": "http://schema.org/",
+    "@type": "Invoice",
+    "description": "January 2015 Visa bill.",
+    "url": "http://acmebank.com/invoice.pdf",
+    "accountId": "xxxx-xxxx-xxxx-1234",
+    "customer": {
+      "@type": "Person",
+      "@id": "http://euskadi.eus/AlexLara",
+      "name": "Alex Lara"
+    }
+}
