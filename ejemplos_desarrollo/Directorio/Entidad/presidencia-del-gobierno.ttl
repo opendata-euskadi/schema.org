@@ -1,0 +1,5 @@
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+              @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.<http://gida.irekia.euskadi.eus/es/entities/1>a vcard:Organization;vcard:formattedName "Presidencia del Gobierno" ; vcard:address [vcard:streetAddress "Navarra, 2" ;vcard:postalCode "01007" ;vcard:locality "Vitoria-Gasteiz, Araba/Álava" ;vcard:country "España" ;] ;      vcard:geo [
+        vcard:latitude "42.8385890707404" ;
+        vcard:longitude "-2.67864021006057" ;
+      ] ;vcard:telephone <tel:945017900>;vcard:url <http://www.euskadi.eus/gobierno-vasco/lehendakaritza/inicio/> ;.<tel:945017900> a vcard:Tel, vcard:Pref;rdf:value "945017900" ;.

@@ -1,0 +1,10 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/equipamiento/rrsosa_g_7/es_def/index.shtml"
+      }
+}
+</script>
