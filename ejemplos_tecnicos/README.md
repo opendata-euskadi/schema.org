@@ -1,0 +1,5 @@
+Ejemplos de como solventar problemas técnicos que tendremos en el proyecto:
+
+* `ejemplo-injectar-uri.json` y `ejemplo-injectar-uri.ttl` ([Enlazar datos y contenido web mediante mainEntityOfPage](https://github.com/opendata-euskadi/schema.org/issues/3)): injectar una URI para que no haya un nodo anónimo.
+* `mainEntityOfPage.json` ([issue 3](https://github.com/opendata-euskadi/schema.org/issues/3)): referise a un recurso (persona, erakunde, ...) del que habla la página web que estamos anotando ([documentación sobre mainEntityOfPage en Schema](http://schema.org/docs/datamodel.html#mainEntityBackground)). Muy importante para integrar este JSON-LD en el triple store (Es decir, Alex Lara tendrá una URI oficial y unica, a la que se referiran los JSON-LD mediante `mainEntityOfPage` y los datasest CSV/lo que sea que se suben mediatne el conector).
+* `ejemplo-named-graph.json` ([Provenance y named graphs](https://github.com/opendata-euskadi/schema.org/issues/2)): agrupar triples en un named graph al que podemos añadir metadatos.
