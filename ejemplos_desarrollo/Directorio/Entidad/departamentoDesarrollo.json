@@ -1,0 +1,304 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "@id": "http://gida.irekia.euskadi.eus/department/DesarrolloEconomicoYCompetitividad",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/estructura-y-funciones-del-departamento-de-desarrollo-economico-y-competitividad/w79-contdata/es/"
+      },
+  "name":"Departamento de Desarrollo Económico y Competitividad", 
+  "location":
+  [
+    {
+      "@type": "Place",
+      "address":
+        {
+          "name": "DELEGACIÓN TERRITORIAL DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD DE ALAVA",
+          "addressCountry": "ES",
+          "addressLocality": "Vitoria-Gasteiz",
+          "addressRegion": "Araba/Álava", 
+          "postalCode": "01008",
+          "telephone": "945017770",
+          "faxNumber":"945017051 ",
+          "streetAddress":"Samaniego, 2" 
+        }, 
+          "openingHoursSpecification":[{
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Monday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Tuesday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Wednesday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Thursday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Friday", 
+          "opens":"08:30",
+          "closes":"14:00"}]},
+          {"@type": "Place",
+          "address":{
+          "name": "DELEGACIÓN TERRITORIAL DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD DE BIZKAIA",
+          "addressCountry": "ES",
+          "addressLocality": "Bilbao",
+          "addressRegion": "Bizkaia", 
+          "postalCode": "48010",
+          "telephone": "944031400",
+          "faxNumber":"944031445",
+          "streetAddress":"General Concha, 23"}, 
+          "openingHoursSpecification":[{
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Monday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Tuesday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Wednesday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Thursday", 
+          "opens":"08:30",
+          "closes":"14:00"}, 
+          {
+          "@type":"OpeningHoursSpecification", 
+          "dayOfWeek":"Friday", 
+          "opens":"08:30",
+          "closes":"14:00"}]},
+        {"@type": "Place", 
+        "address":{
+        "name": "DELEGACIÓN TERRITORIAL DE DESARROLLO ECONÓMICO Y COMPETITIVIDAD DE GIPUZKOA",
+        "addressCountry": "ES",
+        "addressLocality": "Donostia-San Sebastián",
+        "addressRegion": "Gipuzkoa", 
+        "postalCode": "20006",
+        "telephone": "943022500",
+        "faxNumber":"943022542",
+        "streetAddress":"Easo, 10"
+        }, 
+        
+         "openingHoursSpecification":[{
+        "@type":"OpeningHoursSpecification", 
+        "dayOfWeek":"Monday", 
+        "opens":"08:30",
+        "closes":"14:00"}, 
+        {
+        "@type":"OpeningHoursSpecification", 
+        "dayOfWeek":"Tuesday", 
+        "opens":"08:30",
+        "closes":"14:00"}, 
+        {
+        "@type":"OpeningHoursSpecification", 
+        "dayOfWeek":"Wednesday", 
+        "opens":"08:30",
+        "closes":"14:00"}, 
+        {
+        "@type":"OpeningHoursSpecification", 
+        "dayOfWeek":"Thursday", 
+        "opens":"08:30",
+        "closes":"14:00"}, 
+        {
+        "@type":"OpeningHoursSpecification", 
+        "dayOfWeek":"Friday", 
+        "opens":"08:30",
+        "closes":"14:00"}]
+}], 
+  "employee":{
+  "@id": "http://gida.irekia.euskadi.eus/employee/MariaAranzazu79054086V",
+  "@type":"Person", 
+  "givenName": "Maria Aranzazu",
+  "familyName":"Tapia Otaegui",
+  "gender": "http://schema.org/Female",
+  "jobTitle":"Director"
+},
+  "subOrganization":[ 
+  {
+    "@type":"GovernmentOrganization",
+    "name":"Dirección de Servicios", 
+    "@id": "http://gida.irekia.euskadi.eus/entity/direccionDeServicios",
+    "employee":{
+      "@type":"Person", 
+      "@id": "http://gida.irekia.euskadi.eus/employee/MariaAmezqueta79054086V",
+      "givenName": "María Teresa",
+      "familyName":"Amezqueta Alegría",
+      "gender": "http://schema.org/Female",
+      "jobTitle":"Director"
+    }
+  },  
+  { 
+    "@type":"GovernmentOrganization",
+    "name":"Dirección de Gabinete y Comunicación",
+    "@id": "http://gida.irekia.euskadi.eus/entity/direccionGabineteComunicacion", 
+    "employee":{
+      "@type":"Person",
+      "@id": "http://gida.irekia.euskadi.eus/employee/LarraitzGezala79054086V",
+      "givenName": "Larraitz",
+      "familyName":"Gezala Oyarbide",
+      "gender": "http://schema.org/Male",
+      "jobTitle":"Director"
+    }
+  },   
+  {
+"@type":"GovernmentOrganization",
+"name":"Viceconsejería de Tecnología, Innovación y Competitividad", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/EztibalizHernaez79054086V",
+"givenName": "Estibaliz",
+"familyName":"Hernaez Laviña",
+"gender": "http://schema.org/Female",
+"jobTitle":"Director"
+}
+}, {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Tecnología y Estrategia", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/LeyreBilbao79054086V",
+"givenName": "Leyre",
+"familyName":"Bilbao Elguezabal",
+"gender": "http://schema.org/Female",
+"jobTitle":"Director"
+}
+},  {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Emprendimiento, Innovación y Sociedad de la Información", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/AitorUrzelai79054086V",
+"givenName": "Aitor",
+"familyName":"Urzelai Inza",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+},  {
+"@type":"GovernmentOrganization",
+"name":"Viceconsejería de Industria", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/JavierZarraonandia79054086V",
+"givenName": "Javier", 
+"familyName":"Zarraonandia Zuloaga",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+}, 
+ {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Desarrollo Industrial", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/AlejandroLopez79054086V",
+"givenName": "Alejandro",
+"familyName":"López Cárcamo",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+},  {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Energía, Minas y Administración Industrial", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/AitorPatxi79054086V",
+"givenName": "Aitor Patxi",
+"familyName":"Oregi Baztarrika",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+},  {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Internacionalización", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/MariaOndarzabal79054086V",
+"givenName": "María Ainhoa",
+"familyName":"Ondarzabal Izaguirre",
+"gender": "http://schema.org/Female",
+"jobTitle":"Director"
+}
+},  {
+"@type":"GovernmentOrganization",
+"name":"Viceconsejería de Comercio y Turismo"
+}, {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Comercio"
+},
+ {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Turismo"
+},  {
+"@type":"GovernmentOrganization",
+"name":"Viceconsejería de Agricultura, Pesca y Política Alimentaria", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/VictorOroz79054086V",
+"givenName": "Victor",
+"familyName":"Oroz Izaguirre",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+},  {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Desarrollo Rural y Litoral y Políticas Europeas", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/ElenaGutierrez79054086V",
+"givenName": "Elena",
+"familyName":"Gutiérrez Pérez del Notario",
+"gender": "http://schema.org/Female",
+"jobTitle":"Director"
+}
+},
+ {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Agricultura y Ganadería", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/IkerneZuluaga79054086V",
+"givenName": "Ikerne",
+"familyName":"Zuluaga Zamalloa",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+},
+ {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Pesca y Acuicultura", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/LeandroAzcue79054086V",
+"givenName": "Leandro",
+"familyName":"Azcue Mugica",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+}, {
+"@type":"GovernmentOrganization",
+"name":"Dirección de Calidad e Industrias Alimentarias", 
+"employee":{
+"@type":"Person", 
+"@id": "http://gida.irekia.euskadi.eus/employee/PeliManterola79054086V",
+"givenName": "Peli",
+"familyName":"Manterola Arteta",
+"gender": "http://schema.org/Male",
+"jobTitle":"Director"
+}
+}]
+  }

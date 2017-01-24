@@ -1,0 +1,74 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person", 
+  "@id":"http://gida.irekia.euskadi.eus/resource/staff/inigo-urkullu-renteria-16068955",
+  "givenName": "Iñigo",
+  "familyName":"Urkullu Renteria",
+  "gender": "http://schema.org/Male",
+  "honorificPrefix":"Mr",
+  "jobTitle":"Lehendakari",
+  "url":"http://www.euskadi.eus/gobierno-vasco/lehendakaritza/inicio/",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://gida.irekia.euskadi.eus/es/people/8080"
+      },
+  "nationality":{
+      "@type": "Country", 
+      "name": "Spain"
+  },
+  "email":"gab-lehendak@euskadi.eus",
+  "telephone":945017900,
+  "sameAs":"http://www.irekia.euskadi.eus/es/politicians/4092", 
+  "image":{
+    "@type": "ImageObject", 
+    "url": "http://gida.irekia.euskadi.eus/assets/people/8080/medium/big_280_urkullu2.jpg?1383731991"
+  },
+  "worksFor":[
+    {
+      "@type": "GovernmentOrganization", 
+      "name":"Presidencia del gobierno",
+      "description":"Presidente",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "ES",
+        "addressLocality": "Vitoria-Gasteiz",
+        "addressRegion": "Araba/Álava", 
+        "postalCode": "01007",
+        "telephone": 945017900,
+        "streetAddress":"Navarra, 2", 
+        "url": "http://www.euskadi.eus/gobierno-vasco/lehendakaritza/inicio/"
+      }
+    }, 
+    {
+      "@type": "GovernmentOrganization", 
+      "name": "Comisión Interdepartamental para la Igualdad de Mujeres y Hombres",
+      "description":"Presidente",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "ES",
+        "addressLocality": "Vitoria-Gasteiz",
+        "addressRegion": "Araba/Álava", 
+        "postalCode": "01007",
+        "streetAddress":"Navarra, 2", 
+        "url": "http://www.emakunde.euskadi.net/u72-20010/es/contenidos/informacion/org_adscritos/es_def/index.shtml#A02"
+      }
+    }, 
+    {
+      "@type": "GovernmentOrganization", 
+      "name": "Euzko Abertzaleak-Nacionalistas Vascos (EA-NV)",
+      "description":"Parlamentario",
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "ES",
+        "email":"euzkoabertzaleak@legebiltzarra.eus",
+        "addressLocality": "Vitoria-Gasteiz",
+        "addressRegion": "Araba/Álava", 
+        "postalCode": "01005",
+        "streetAddress":"Becerro de Bengoa, s/n", 
+        "url": "http://www.legebiltzarra.eus/", 
+        "faxNumber":945140085, 
+        "telephone":[945004050,945004052]
+      }
+    }
+  ]
+}

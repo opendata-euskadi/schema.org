@@ -1,0 +1,29 @@
+//http://opendata.euskadi.eus/w79-contdata/es/contenidos/evento/2017_24_21_4/es_def/index.shtml
+//Event ---> INTELIGENCIA EMOCIONAL. PROFUNDIZACIÓN
+
+{ 
+	"@context": {
+	"schema":"http://schema.org/", 
+	"xsd": "http://www.w3.org/2001/XMLSchema#",
+	"schema:startDate": {
+	   "@type": "xsd:dateTime"
+	    }
+	 }, 
+	"@id":"http://irekia.eus/InteligenciaEmocional2015-2016",
+	"@type": "http://schema.org/EducationEvent",
+	"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/evento/2017_24_21_4/es_def/index.shtml"
+     },
+	"schema:name":"INTELIGENCIA EMOCIONAL. PROFUNDIZACIÓN",
+	"schema:startDate":"2017-10-05", 
+	"schema:location":{
+		"@type": "schema:PostalAddress",
+		"schema:addressCountry": "ES",
+		"schema:addressLocality": "VITORIA-GASTEIZ",
+		"schema:addressRegion": "ARABA/ÁLAVA", 
+		"schema:postalCode": "01010",
+		"schema:streetAddress":"Donostia-San Sebastián 1", 
+		"schema:name":"Gobierno vasco"
+	}
+}
