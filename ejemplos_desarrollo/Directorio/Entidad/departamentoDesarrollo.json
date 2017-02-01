@@ -22,7 +22,7 @@
           "faxNumber":"945017051 ",
           "streetAddress":"Samaniego, 2" 
         }, 
-          "openingHoursSpecification":[{
+      "openingHoursSpecification":[{
           "@type":"OpeningHoursSpecification", 
           "dayOfWeek":"Monday", 
           "opens":"08:30",
@@ -121,13 +121,13 @@
         "closes":"14:00"}]
 }], 
   "employee":{
-  "@id": "http://gida.irekia.euskadi.eus/employee/MariaAranzazu79054086V",
-  "@type":"Person", 
-  "givenName": "Maria Aranzazu",
-  "familyName":"Tapia Otaegui",
-  "gender": "http://schema.org/Female",
-  "jobTitle":"Director"
-},
+    "@id": "http://gida.irekia.euskadi.eus/employee/MariaAranzazu79054086V",
+    "@type":"Person", 
+    "givenName": "Maria Aranzazu",
+    "familyName":"Tapia Otaegui",
+    "gender": "http://schema.org/Female",
+    "jobTitle":"Director"
+  },
   "subOrganization":[ 
   {
     "@type":"GovernmentOrganization",

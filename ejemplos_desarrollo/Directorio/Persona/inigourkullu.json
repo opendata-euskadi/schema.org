@@ -10,7 +10,7 @@
   "url":"http://www.euskadi.eus/gobierno-vasco/lehendakaritza/inicio/",
   "mainEntityOfPage": {
          "@type": "WebPage",
-         "@id": "http://gida.irekia.euskadi.eus/es/people/8080"
+         "@id": "http://gida.irekia.euskadi.eus/page/staff/inigo-urkullu-renteria-16068955"
       },
   "nationality":{
       "@type": "Country", 
@@ -26,6 +26,7 @@
   "worksFor":[
     {
       "@type": "GovernmentOrganization", 
+      "@id": "http://www.euskadi.eus/gobierno-vasco/lehendakaritza/inicio/",
       "name":"Presidencia del gobierno",
       "description":"Presidente",
       "address": {
@@ -41,6 +42,7 @@
     }, 
     {
       "@type": "GovernmentOrganization", 
+      "@id":"http://www.emakunde.euskadi.net/u72-20010/es/contenidos/informacion/org_adscritos/es_def/index.shtml#A02",
       "name": "Comisión Interdepartamental para la Igualdad de Mujeres y Hombres",
       "description":"Presidente",
       "address": {
@@ -55,6 +57,7 @@
     }, 
     {
       "@type": "GovernmentOrganization", 
+      "@id":"http://gida.irekia.euskadi.eus/es/entities/452",
       "name": "Euzko Abertzaleak-Nacionalistas Vascos (EA-NV)",
       "description":"Parlamentario",
       "address": {
@@ -65,7 +68,7 @@
         "addressRegion": "Araba/Álava", 
         "postalCode": "01005",
         "streetAddress":"Becerro de Bengoa, s/n", 
-        "url": "http://www.legebiltzarra.eus/", 
+        "url": "http://gida.irekia.euskadi.eus/es/entities/452", 
         "faxNumber":945140085, 
         "telephone":[945004050,945004052]
       }
