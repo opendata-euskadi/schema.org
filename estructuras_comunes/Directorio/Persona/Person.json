@@ -1,0 +1,12 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Person", 
+  "givenName": "Iñigo",
+  "familyName":"Urkullu Renteria",
+  "gender": "http://schema.org/Male",
+  "honorificPrefix":"Mr",
+  "nationality":{
+  "@type": "Country", 
+  "name": "Spain"
+  }
+  }
