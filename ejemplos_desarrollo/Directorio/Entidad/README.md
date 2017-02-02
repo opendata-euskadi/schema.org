@@ -51,17 +51,19 @@
 
 ### Presidencia del Gobierno (Guía de la comunicación)
 
-* URL actual: 
-* Archivo: ``
+* URL actual: http://gida.irekia.euskadi.eus/es/entities/1
+* Archivo: `presidenciaDelGobierno.json`
 * URI recurso (a decidir): 
 
-`"@id":"",`
+`"@id":"http://gida.irekia.euskadi.eus/resource/PreisdenciaDelgobierno",`
 
 * URL página (a decidir: como la URI recurso pero `page` en vez de `resource`):
 
 ```
   "mainEntityOfPage": {
          "@type": "WebPage",
-         "@id": ""
+         "@id": "http://gida.irekia.euskadi.eus/page/PreisdenciaDelgobierno"
       },
 ```
+
+También hay que ponber URIs en `"parentOrganization"` y `"subOrganization"`
