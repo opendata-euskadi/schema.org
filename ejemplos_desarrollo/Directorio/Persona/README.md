@@ -1,4 +1,4 @@
-# Iñigo Urkullu (Guía comunicación)
+### Iñigo Urkullu (Guía comunicación)
 
 * URL actual: http://gida.irekia.euskadi.eus/es/people/8080
 * Archivo: `inigourkullu.json`
