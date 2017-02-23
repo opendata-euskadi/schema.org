@@ -3,10 +3,12 @@
   "@type": "Person", 
   "givenName": "Iñigo",
   "familyName":"Urkullu Renteria",
-  "gender": "http://schema.org/Male",
-  "honorificPrefix":"Mr",
-  "nationality":{
-  "@type": "Country", 
-  "name": "Spain"
-  }
-  }
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://gida.irekia.euskadi.eus/page/staff/inigo-urkullu-renteria-16068955"
+  },
+  "image":{
+    "@type": "ImageObject", 
+    "url": "http://gida.irekia.euskadi.eus/assets/people/8080/medium/big_280_urkullu2.jpg?1383731991"
+  },
+}
