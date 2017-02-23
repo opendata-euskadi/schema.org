@@ -1,0 +1,96 @@
+{
+"@context": "http://schema.org",
+"@type":"LocalBusiness", 
+"name":"4X4 OCIO AVENTURA",
+"@id":"http://opendata.euskadi.eus/es/id/4x4-ocio-aventura",
+"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/empresas-turismo-activo-deporte-aventura/4x4-ocio-aventura/w79-contdata/es/"
+      },
+"email":"bakio@4x4ocioaventura.com", 
+"url":"http://www.4x4ocioaventura.com",
+"telephone":["946 194 138","609 648 999"],
+"description":"Empresa especializada en el ocio y la aventura, que ofrece multitud de actividades con profesionales experimentados. También organizan cursos de navegación, buceo, conducción e hípica y una amplia variedad de rutas (desde rutas 'a la carta' por Marruecos hasta rutas por la comarca de Uribe Kosta). Cuentan con un hotel para animales a 10 minutos de sus instalaciones.",
+"image":{ 
+"@type":"ImageObject", 
+"url":"http://opendata.euskadi.eus/contenidos/i_deportes/0000022661_i32_rec_turismo/es_22661/images/4x4_h.jpg"}, 
+"address": {
+"@type": "PostalAddress",
+"addressCountry": "ES",
+"addressLocality": "Bakio",
+"addressRegion": "Vizcaya", 
+"postalCode": "48130",
+"streetAddress":"Ibarreta Kalea, 4"}, 
+"hasOfferCatalog":{
+	"@type": "OfferCatalog",
+	"itemListElement":[{
+	"@type": "ListItem",
+	"position": 1,
+	"item":{
+    "@type":"Thing",
+	"name": "Surf"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 2,
+	"item":{
+	"@type":"Thing",
+	"name": "Piragua"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 3,
+	"item":{ 
+	"@type":"Thing",
+	"name": "Buceo y snorkel"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 4,
+	"item":{
+	"@type":"Thing",
+	"name": "Ruta en 4x4"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 5,
+	"item":{
+	"@type":"Thing",
+	"name": "Avistamiento de cetaceos"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 6,
+	"item":{
+	"@type":"Thing",
+	"name": "Salidas en barco"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 7,
+	"item":{
+	"@type":"Thing",
+	"name": "Circuitos en tierra"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 8,
+	"item":{
+	"@type":"Thing",
+	"name": "Rutas por bodegas"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 9,
+	"item":{
+	"@type":"Thing",
+	"name": "Paseos a caballo"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 10,
+	"item":{
+	"@type":"Thing",
+	"name": "Cenas animadas"}}  ]
+}
+}
