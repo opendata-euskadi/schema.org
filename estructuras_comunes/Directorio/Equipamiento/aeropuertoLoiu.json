@@ -1,0 +1,46 @@
+{
+"@context": "http://schema.org",
+"@type": "Airport",
+"@id":"http://opendata.euskadi.eus/id/es/aeropuerto/aeropuerto-de-bilbao-bio", 
+"iataCode": "BIO", 
+"icaoCode":"LEBB", 
+"name":"Aeropuerto de Bilbao", 
+"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/aeropuertos/aeropuerto-de-bilbao-bio/w79-contdata/es/"
+      },
+"description":"El aeropuerto de Bilbao, diseñado por el arquitecto Santiago Calatrava, fue inaugurado en 1999 en el entorno rural de Loiu, a 12 kilómetros de la capital vizcaína. Cuenta con tres plantas construidas en hierro y cristal y pretende asemejarse a una paloma alzando el vuelo. 
+Para hacer frente al crecimiento de tráfico del aeropuerto, en 2011 se renovó la sala de llegadas, totalmente cerrada y climatizada, así como ocho nuevos ascensores y dos rampas de conexión entre la planta de llegadas y la galería que une con el aparcamiento. 
+Se puede llegar en transporte público, en la línea de Bizkaibus A3247 Bilbao – Aeropuerto que une la estación de autobuses de Bilbao Termibus con el aeropuerto.", 
+"url":"http://www.aena.es/es/aeropuerto-bilbao/index.html", 
+"telephone":["944 869 664", "944 869 663", "902 404 704"], 
+"openingHours":"Mo-Su", 
+"address":{
+"@type": "PostalAddress",
+  "addressCountry": "ES",
+  "addressLocality": "LOIU",
+  "addressRegion": "Vizcaya", 
+  "postalCode": "48180",
+  "streetAddress":"Carretera Asua-Erletxe"
+}, 
+"containsPlace":[{
+"@type":"ParkingFacility", 
+"name":"P1", 
+"description":"Parking general, situado a 100 metros de la fachada norte de la terminal de pasajeros. El edificio consta de cinco plantas con capacidad para 2.924 plazas. Es la opción ideal para estancias inferiores a 4 días, así como para llevar o recoger pasajeros."},{
+"@type":"ParkingFacility", 
+"name":"P2", 
+"description":"Parking larga estancia está situado en el nivel de salidas, conectado con la terminal con una pasarela peatonal cubierta. La distancia es de 5 minutos a pie."},
+{
+"@type":"ParkingFacility", 
+"name":"P3", 
+"description":"Parking premium con 60 plazas y Parking exprés"}, 
+{
+"@type":"TouristInformationCenter", 
+"name":"OFICINA DE TURISMO DEL AEROPUERTO DE BILBAO",
+"url":"http://turismo.euskadi.net/es/oficinas-de-turismo/oficina-de-turismo-del-aeropuerto-de-bilbao/x65-12375/es/",
+"image":{
+"@type":"ImageObject", 
+"url":"https://turismo.euskadi.eus/contenidos/e_oficinas_turisticas/0000005696_e1_rec_turismo/es_5696/images/oficina-de-turismo-aeropuerto-loiu-H.jpg"
+}}
+]
+}
