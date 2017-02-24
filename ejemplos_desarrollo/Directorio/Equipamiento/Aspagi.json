@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization", 
+  "@id": "http://opendata.euskadi.eus/es/id/negocios/empresas-de-servicio/aspagi-asociacion-de-empresarios-de-hoteles-de-gipuzkoa",
+  "name":"ASPAGI' Asociación de Empresarios de Hoteleria de Gipuzkoa", 
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/negocios/empresas-de-servicios/aspagi-asociacion-de-empresarios-de-hoteles-de-gipuzkoa/w79-contdata/es/"
+      },
+  "telephone": "943 309 030",
+  "faxNumber":"943 309 151", 
+  "description":"Especialidad: Hostelería en Gipuzkoa",
+  "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Donosti",
+    "addressRegion": "Gipuzkoa", 
+    "postalCode": "20009",
+    "streetAddress":"Paseo Mikeletegi, 52"
+  },
+  "email":"gagote@adegi.es",
+  "url": "http://www.adegi.es"
+}

@@ -1,0 +1,23 @@
+{
+  "@context": "http://schema.org",
+  "@type": "??????????????????????????????",
+  "name": "Artea",
+  "@id": "http://opendata.euskadi.eus/id/centro-comercial/artea",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/centros-comerciales/artea/w79-contdata/es/"
+      },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "LEIOA",
+    "addressRegion":"BIZKAIA",
+    "postalCode": "48940",
+    "addressCountry":"ES",
+    "streetAddress": "Barrio Peruri, 33"
+  }, 
+  "url":"http://opendata.euskadi.eus/es/centros-comerciales/artea/w79-contdata/es/",
+  "image":{
+    "@type":"ImageObject", 
+    "url":"http://opendata.euskadi.eus/contenidos/l_compras/0000007662_l3_rec_turismo/es_7662/images/artea_exterior_H.jpg"
+  }
+}

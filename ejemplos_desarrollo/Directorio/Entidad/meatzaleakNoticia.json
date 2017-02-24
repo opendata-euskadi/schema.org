@@ -1,0 +1,63 @@
+{
+"@context": "http://schema.org",
+"@type": "Article",
+"@id": "http://opendata.euskadi.eus/id/es/cultura/noticia/azkuna-zentroa-presenta-meatzaleak-un-nuevo-punto-de-encuentro-para-profundizar-sobre-bilbao-euskal-herria-y-el-mundo-con-creadores-culturales-vascos-2017011212251183",
+"headline": "MEATZALEAK: BILBO, EUSKERA, KULTURA, HISTORIA",
+"articleSection":"Artes visuales, Artes escénicas, Música, Audiovisual, Literatura, Archivos y bibliotecas, Museos, Patrimonio, Artesanía, Otros",
+"inLanguage":{
+  "@type": "Language", 
+  "name": "Spanish", 
+  "alternateName": "ES"
+},
+"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/noticia/2017011212251183/azkuna-zentroa-presenta-meatzaleak-un-nuevo-punto-de-encuentro-para-profundizar-sobre-bilbao-euskal-herria-y-el-mundo-con-creadores-culturales-vascos-/kulturklik/es/w79-contdata/es/"
+      },
+"isAccessibleForFree":true,
+"author":  [
+  {"type": "Person",
+  "name": "Fermin Muguruza",
+  "gender": "http://schema.org/Male"}, 
+  {"type": "Person",
+  "name":"Leire Palacios",
+  "gender": "http://schema.org/Female"}],
+"publisher": {
+"@type": "Organization", 
+"name":"AzkunaZentroa",
+"logo":{
+"@type": "ImageObject",
+  "url": "http://www.azkunazentroa.eus/alhondigabilbao/images/logo.png"
+}
+},
+"articleBody": "Un miércoles de cada mes referentes culturales vascos hablarán sobre música, medios de comunicación, el cuerpo en el escenario, cultura, identidad y ciudad, arquitectura, artes plásticas, bertsolaritza, etc.
+Todos los encuentros serán en euskera
+El programa arrancará el próximo miércoles 18 a las 19:00 con Fermín Muguruza
+Azkuna Zentroa ha presentado esta mañana el programa ‘Meatzaleak: Bilbo, euskera, kultura, historia’, un nuevo punto de encuentro para profundizar sobre Bilbao, Euskal Herria y el mundo con creadores culturales vascos.
+En el marco de su apuesta por el apoyo a la difusión y potenciación del euskera, así como por el apoyo y la difusión de la cultura vasca, un miércoles de cada mes se contará con un creador cultural vasco que, junto a las personas asistentes, hablará sobre música, medios de comunicación, el cuerpo en el escenario, cultura, identidad y ciudad, arquitectura, artes plásticas, bertsolaritza, etc.
+El programa es un intento de sacar a la luz aquello que reside en la penumbra, es una propuesta para poner al descubierto todo aquello que habita en las profundidades. Se pretende narrar Bilbao, Euskal Herria y el mundo, a través del conocimiento y las opiniones de creadores de múltiples expresiones culturales. Para ello, se combinarán conferencias, tertulias didácticas, entrevistas y actuaciones en directo, ofreciendo a cada tema a tratar el formato que permita sacar a cada uno de ellos el mayor provecho posible, siempre con el objetivo de promover la interactividad entre ponentes y espectadores.
+El programa lo estrenará el próximo jueves 18 a las 19:00 Fermin Muguruza con ‘Bilbo-BCN-Belfast-Berlin-Beirut-Bogotá’. Será en la Sala Bastida con entrada libre hasta completar el aforo. Las personas interesadas tendrán que recoger la invitación en Infopuntua.
+Además de él, en los próximos meses asistirán, entre otros, Nagore Uriarte y Errota digitala, Lutxo Egia e Inun, Onintza Enbeita y Ander Lipus, Haizea Barcenilla y Okela sormen lantegia, Ander Gortazar y Leire Milikua, etc. Asimismo, la periodista Leire Palacios será la encargada de presentar y dirigir todas las sesiones.",
+"contentLocation":{
+"@type":"Place", 
+"name":"Azkuna Zentroa",
+"address":{
+"@type":"PostalAddress",
+"addressCountry": "ES",
+  "addressLocality": "Bilbao",
+  "addressRegion": "Vizcaya", 
+  "postalCode": "48010",
+  "telephone": "944 014 014",
+  "streetAddress":"Plaza Arriquibar, 4"
+}
+},
+"datePublished":"2017-01-12",
+"image":{
+"@type":"ImageObject",
+"height": 326,
+"width":{ 
+"@type":"QuantitativeValue",
+"value":490
+},
+"url":"http://opendata.euskadi.eus/contenidos/noticia/2017011212251183/es_def/images/meatzaleak.jpg"
+}
+  }

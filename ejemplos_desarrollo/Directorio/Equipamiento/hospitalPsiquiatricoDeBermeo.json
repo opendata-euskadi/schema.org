@@ -1,0 +1,25 @@
+{ 
+"@context": "http://schema.org",
+"@type": "Hospital", 
+"@id":"http://opendata.euskadi.eus/id/es/sanidad/hospital/hospit-psiquitrico-bermeo",
+"name":"Hospital Psiquiátrico de Bermeo", 
+"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/sanidad_hospital/hospit_psiquitricobermeo/es_def/index.html"
+      },
+"medicalSpecialty":["Psychiatric", "PrimaryCare", "OccupationalTherapy", "PharmacySpecialty"], 
+"address":{
+ "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Bermeo",
+    "addressRegion": "Vizcaya", 
+    "postalCode": "48370",
+    "streetAddress":"Tonpoi Bidea, S/N "
+}, 
+"telephone":"946029000", 
+"faxNumber":"946880642",
+"email":"admision.hbermeo@osakidetza.net",
+"image": {
+"@type": "ImageObject", 
+"url": "http://intranet.pogmacva.com/uploads/img/97afe8bc00333ba58857cfea9e7aa7ab4780e044.gif"}
+}

@@ -15,4 +15,7 @@
       },
 ```
 
-* Horario de verano no esta especificado
+
+### Hotel Abando
+
+La URI cumple la NTI: `http://opendata.euskadi.eus/es/recurso/turismo/alojamiento/Hotel/HotelAbando`

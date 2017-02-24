@@ -1,0 +1,20 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Place", 
+  "@id": "http://opendata.euskadi.eus/id/es/medio-ambiente/espacio-natural/bahia-de-txingudi-y-hondarribia",
+  "name": "BAHÍA DE TXINGUDI Y HONDARRIBIA", 
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/espacios-naturales/bahia-de-txingudi-y-hondarribia/w79-contdata/es/"
+      },
+  "description": "Hondarribia, Irun y Hendaia, se asoman a la bahía de Txingudi, en la desembocadura del río Bidasoa. Un espacio con personalidad propia al que accederemos a través del monte Jaizkibel, que preside el extremo nororiental de Gipuzkoa. Este monte costero es una gran atalaya desde donde contemplar en calma tanto el mar Cantábrico como las poblaciones que rodean Jaizkibel. 
+La Bahía de Txingudi es un espacio único donde se unen océano, montes y ríos que ha sabido preservar su gran patrimonio natural e histórico. Un espacio con personalidad propia. Ubicado entre el mar y la montaña, es un lugar ideal para ir de excursión por los montes cercanos, recorrer el Camino de la Bahía, practicar deportes náuticos… 
+Una de las mejores vistas de la Bahía la ofrece Hondarribia. Este municipio costero cuenta con una amplia y variada oferta hotelera y gastronómica que la hace atractiva en cualquier época del año. Conserva un precioso casco antiguo amurallado, rodeado de calles empedradas, casas blasonadas y edificios singulares. 
+Destaca también el barrio de la Marina con sus coloristas casas de pescadores, restaurantes y típicos bares de pintxos con terrazas.",
+  "address":{
+  "@type": "PostalAddress",
+  "addressCountry": "ES",
+  "addressLocality": "HONDARRIBIA",
+  "addressRegion": "Guipúzcoa"
+}
+}

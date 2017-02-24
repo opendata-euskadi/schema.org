@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org",
+  "@type": "MedicalOrganization",
+  "name": "Comarca Bilbao",
+  "@id":"http://opendata.euskadi.eus/id/es/sanidad-comarca/comarca-bilbao/",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/sanidad_comarca/comarca_bilbao/es_def/index.html"
+      },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bilbao",
+    "addressRegion":"Bizkaia",
+    "postalCode": "48011",
+    "addressCountry":"ES",
+    "streetAddress": "Gran Vía, 62-2º"
+  },
+  "telephone": "944007325", 
+  "email":"SECRETARIA.COMARCABILBAO@osakidetza.net",
+  "url":"http://www.osakidetza.euskadi.net/r85-ghcbil00/es/",
+  "faxNumber":"944007373"
+}

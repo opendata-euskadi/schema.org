@@ -1,0 +1,33 @@
+{
+"@context": "http://schema.org",
+"@type":"TouristInformationCenter", 
+"@id": "https://euskadi.eus/id/es/turismo/oficina-de-turismo/oficina-de-turismo-del-aeropuerto-de-bilbao",
+"name":"OFICINA DE TURISMO DEL AEROPUERTO DE BILBAO",
+"mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "https://turismo.euskadi.eus/es/oficinas-de-turismo/oficina-de-turismo-del-aeropuerto-de-bilbao/aa30-12375/es/"
+      },
+"email":"turismobio@euskadi.eus", 
+"url":"http://turismo.euskadi.net/es/oficinas-de-turismo/oficina-de-turismo-del-aeropuerto-de-bilbao/x65-12375/es/",
+"telephone":"944 031 444",
+"description":"
+Interactiva y de forma circular, es la primera oficina de turismo tecnológica del Estado. Los diseñadores que han ideado la instalación han utilizado la luz como elemento principal para integrar la oficina dentro del aeropuerto. Cuenta con siete pantallas que proyectan imágenes en alta definición, dándole aspecto de faro. Además, en estas pantallas caras conocidas (a escala real) dan la bienvenida al visitante, cada una en un idioma diferente. En su exterior cuenta con dos pantallas táctiles que ofrecen todo tipo de información útil para los turistas que llegan a Loiu.",
+"image":{
+"@type":"ImageObject", 
+"url":"https://turismo.euskadi.eus/contenidos/e_oficinas_turisticas/0000005696_e1_rec_turismo/es_5696/images/oficina-de-turismo-aeropuerto-loiu-H.jpg"
+}, 
+"openingHours":"Mo-Su 09:00-21:00",
+"address": {
+"@type": "PostalAddress",
+"addressCountry": "ES",
+"addressLocality": "Loiu",
+"addressRegion": "Vizcaya", 
+"postalCode": "48001",
+"streetAddress":"Aeropuerto de Bilbao. Terminal de entradas"}, 
+"containedInPlace":{
+"@type": "Airport", 
+"iataCode": "BIO", 
+"icaoCode":"LEBB", 
+"name":"Aeropuerto de Bilbao"
+}
+}

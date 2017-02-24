@@ -67,3 +67,15 @@
 ```
 
 También hay que ponber URIs en `"parentOrganization"` y `"subOrganization"`
+
+### Ataun
+
+Ataun es una entidad?
+
+### Evento inteligencia emocional
+
+Un evento es una entidad?
+
+### Noticia Azkuna zentroa
+
+Una noticia es una entidad?

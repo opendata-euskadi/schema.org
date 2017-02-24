@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "AdministrativeArea", 
+  "@id":"http://opendata.euskadi.eus/id/es/localidad/ataun",
+  "name": "ATAUN", 
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/localidades/ataun/w79-contdata/es/"
+      },
+  "description":"Ataun está situado en el sur de Gipuzkoa, dentro del valle del Goierri. Es el pueblo más largo del territorio histórico de Gipuzkoa. Los principales barrios de Ataun son los de San Martín, San Gregorio y Aia. El río Agauntza cruza la localidad, que está protegida, entre otros, por los montes de Sarastarri, Areetza y Aitxu. 
+En Ataun se han encontrado monedas de la época de los romanos. El municipio, que consiguió su consideración de pueblo en el año 1616, ha sido camino de viajeros y peregrinos del Camino de Santiago. 
+Parque natural de Aralar 
+El municipio hace frontera con Navarra y con el bosque del Parque Natural de Aralar. Además, El Domo de Ataun o Aitzartea está considerado como un bello fenómeno geológico. También cuenta con muchas cuevas bajo el suelo, entre ellas Troskaeta, Sarastarri e Intzartzu. 
+Por otra parte, Ataun ofrece al visitante muchas zonas de paseo y la oportunidad de realizar diferentes excursiones, que muestran la historia y el patrimonio de los alrededores de la localidad. Cabe destacar la iglesia de San Martin de Tours, del siglo XVI, así como los palacios de Zubikoeta y Zelabear. 
+El barrio Aia de Ataun celebra sus fiestas patronales de Santa Isabel el 2 de julio, mientras que el gran día para el barrio de San Gregorio es el día 3 de septiembre. Por otro lado, el municipio de Ataun se viste de fiesta el 15 mayo, día de San Isidro. El 11 de noviembre celebra las fiestas de San Martín.",
+  "address": {
+  "@type": "PostalAddress",
+  "addressRegion":"Gipuzkoa",
+  "addressCountry":"ES"
+   }
+}

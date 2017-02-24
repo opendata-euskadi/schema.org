@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": "CivicStructure",
+  "@id": "http://opendata.euskadi.eus/w79-contdata/id/es/poder-adjudicador/zumarraga",
+  "name": "Ayuntamiento de Zumarraga", 
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/poder_adjudicador/poder117/es_doc/es_arch_poder117.html"
+      },
+   "address": {
+    "@type": "PostalAddress",
+    "addressCountry": "ES",
+    "addressLocality": "Zumarraga",
+    "addressRegion": "GIPUZKOA", 
+    "postalCode": "20700 ",
+    "streetAddress":"Plaza Euskadi, 1"
+  }, 
+  "url":"http://www.zumarraga.net"
+} 

@@ -1,0 +1,93 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Casino",
+  "@id":"http://opendata.euskadi.eus/id/es/casino/casino-kursaal",
+  "name": "CASINO KURSAAL",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/casinos/casino-kursaal/w79-contdata/es/"
+      },
+  "description":"El Gran Kursaal se encuentra en el centro de Donostia-San Sebastián, en el remodelado edificio Petit Casino. Aunque fue fundado en 1922, dos años más tarde cerró sus puertas al quedar prohibido el juego y fue inaugurado de nuevo en 1948. Sus instalaciones, de estilo 'belle epoque', comprenden un salón de juegos donde jugar a la ruleta americana, al black jack, al poker sin descarte o al poker sintético; una sala de máquinas con las más modernas máquinas de azar; el restaurante La Boule y una sala de exposiciones. Tiene escuela de croupiers.", 
+  "address":{
+  "@type": "PostalAddress",
+  "addressCountry": "ES",
+  "addressLocality": "DONOSTIA / SAN SEBASTIÁN",
+  "addressRegion": "Vizcaya", 
+  "postalCode": "20003",
+  "streetAddress":"Mayor, 1"
+}, 
+"telephone":"943 429 214",
+"image":{
+"@type":"ImageObject", 
+"url":"http://opendata.euskadi.eus/contenidos/k_ocio/0000005516_k7_rec_turismo/es_5516/images/casino_kursaal_h.jpg"
+},
+"hasOfferCatalog":{
+	"@type": "OfferCatalog",
+	"itemListElement":[{ 
+	"@type": "ListItem",
+	"position": 1,
+	"item":{
+    "@type":"AutomatedTeller",
+	"name": "Cajero automatico", 
+    "image":{
+    "@type":"ImageObject", 
+    "url": "http://opendata.euskadi.eus/contenidos/k_ocio/0000005516_k7_rec_turismo/es_5516/images/casino_kursaal_h.jpg"
+}
+}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 2,
+	"item":{
+	"@type":"CafeOrCoffeeShop",
+	"name": "Cafeteria", 
+    "image":{
+    "@type":"ImageObject",         
+    "url": "http://opendata.euskadi.eus/contenidos/a_alojamiento/0000000005_a1_rec_turismo/es_5/images/hotelabandofachada.jpg"}
+  }},
+  {
+	"@type": "ListItem", 
+	"position": 3,
+	"item":{
+	"@type":"BarOrPub",
+	"name": "Bar",  
+    "image":{
+    "@type":"ImageObject",         
+    "url": "http://opendata.euskadi.eus/contenidos/a_alojamiento/0000000005_a1_rec_turismo/es_5/images/hotelabandofachada.jpg"}
+  }},
+  {
+	"@type": "ListItem", 
+	"position": 4,
+	"item":{
+	"@type":"Thing",
+	"name": "Consigna"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 5,
+	"item":{
+	"@type":"Thing",
+	"name": "Guardarropa"}
+  },
+  {
+	"@type": "ListItem", 
+	"position": 6,
+	"item":{
+	"@type":"Restaurant",
+	"name": "Restaurante", 
+    "image":{
+    "@type":"ImageObject",         
+    "url": "http://opendata.euskadi.eus/contenidos/a_alojamiento/0000000005_a1_rec_turismo/es_5/images/hotelabandofachada.jpg"    }
+           }
+  },
+  {
+	"@type": "ListItem", 
+	"position": 7,
+	"item":{
+	"@type":"Thing",
+	"name": "Telefono publico"}
+  }
+  
+  ]
+}
+}

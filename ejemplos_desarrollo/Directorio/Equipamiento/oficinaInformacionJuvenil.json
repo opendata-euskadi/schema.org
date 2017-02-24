@@ -1,0 +1,19 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization",
+  "@id": "http://opendata.euskadi.eus/es/id/juventud/punto_informacion_juvenil/centro-ocio-gazte-alaiak",
+  "name": "Centro de ocio Gazte Alaiak",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/punto_informacion_juvenil/r301410/es_r301410/r301410.html"
+      },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "VITORIA-GASTEIZ",
+    "addressRegion":"ALAVA",
+    "postalCode": "01002",
+    "addressCountry":"ES",
+    "streetAddress": "c/ La Paloma, 1 bajo"
+  },
+  "telephone": "945 258 966"
+}

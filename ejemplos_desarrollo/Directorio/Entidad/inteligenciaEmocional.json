@@ -1,0 +1,30 @@
+{ 
+	"@context": "http://schema.org",
+	"@type": "EducationEvent",
+	"@id": "http://opendata.euskadi.eus/id/es/educacion/evento/inteligencia-emocional-profundizacion-2017-24-21-4",
+	"name":"INTELIGENCIA EMOCIONAL. PROFUNDIZACIÓN", 
+	"url":"http://opendata.euskadi.eus/w79-contdata/es/contenidos/evento/2017_24_21_4/es_def/index.shtml",
+	"mainEntityOfPage": {
+	         "@type": "WebPage",
+	         "@id": "http://opendata.euskadi.eus/w79-contdata/es/contenidos/evento/2017_24_21_4/es_def/index.shtml"
+	      },
+	"description":"Acción formativa incluída dentro del plan de formación programado por el Servicio de Formación del IVAP. Este curso está dirigido al personal del Gobierno Vasco y sus OOAA.", 
+	"duration":"P20H", 
+	"startDate":"2017-10-05", 
+	"endDate":"2017-10-19", 
+	"location":{
+		"@type": "PostalAddress",
+		"addressCountry": "ES",
+		"addressLocality": "VITORIA-GASTEIZ",
+		"addressRegion": "ARABA/ÁLAVA", 
+		"postalCode": "01010",
+		"streetAddress":"Donostia-San Sebastián 1", 
+		"name":"Gobierno vasco"
+	}, 
+	"inLanguage":{
+		"@type": "Language", 
+		"name": "Spanish", 
+		"alternateName": "ES"
+	}, 
+	"isAccessibleForFree" : false
+}

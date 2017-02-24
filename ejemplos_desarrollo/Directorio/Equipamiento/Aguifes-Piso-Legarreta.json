@@ -1,0 +1,38 @@
+{ 
+	"@context": "http://schema.org",
+	"@type": "MedicalClinic", 
+	"name":"Aguifes-Piso Legorreta", 
+	"@id":"http://opendata.euskadi.eus/es/id/equipamiento/aguifes-piso-g/", 
+	"mainEntityOfPage": {
+	    "@type": "WebPage",
+	    "@id": "http://opendata.euskadi.eus/equipamiento/aguifes-piso-g/w79-contdata/es/"
+	},
+	"description":"Espacio residencial para personas con trastornos mentales severos",
+	"medicalSpecialty":"Psychiatric",
+	"paymentAccepted":"COPAGO", 
+	"address":{
+	 	"@type": "PostalAddress",
+	    "addressCountry": "ES",
+	    "addressLocality": "Legorreta",
+	    "addressRegion": "Gipuzkoa", 
+	    "postalCode": "20250",
+	    "streetAddress":"Nazional errepidea N-1-4A"
+	}, 
+	"geo":{
+		"@type":"GeoCoordinates", 
+		"latitude":43.08498764038086, 
+		"longitude":-2.145310401916504
+	},
+	"image": {
+		"@type": "ImageObject", 
+		"url": "http://www.agifes.org/sites/default/files/general/Agifes_piso-tutelado-Legorreta.jpg"
+	},
+	"containedInPlace":{
+		"@type":"Apartment",
+		"permittedUsage":"Viviendas con apoyos",
+		"occupancy":{
+			"@type":"QuantitativeValue", 
+			"maxValue":10
+		}
+	}
+}

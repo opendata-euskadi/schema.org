@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Organization?????????",
+  "@id": "http://opendata.euskadi.eus/resource/estructura-y-funciones-del-departamento-de-desarrollo-economico-y-competitividad",
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/estructura-y-funciones-del-departamento-de-desarrollo-economico-y-competitividad/w79-contdata/es/"
+      },
+  "name":"Departamento de Desarrollo Económico y Competitividad"
+}

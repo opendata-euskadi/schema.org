@@ -1,0 +1,28 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Restaurant",
+  "@id":"http://opendata.euskadi.eus/id/es/turismo/restaurante/sidreria-astarbe",
+   "name": "Sidreria Astarbe",
+   "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/restaurantes/sidreria-astarbe/w79-contdata/es/"
+      },
+  "description":"Situada en la zona alta de Astigarraga, la sidrería Astarbe cuenta con un amplio comedor. Además del menú de sidrería, ofrecen menú infantil y la posibilidad de comer costilla, y en verano se pueden degustar platos elaborados con productos de la temporada.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "ASTIGARRAGA",
+    "addressRegion": "Vizcaya",
+    "postalCode": "20115",
+    "streetAddress": "Txoritokieta bidea, 13", 
+    "addressCountry": "ES"
+  },
+  "servesCuisine": "Menú sidrería",
+  "telephone": "943 551 527",
+  "faxNumber":"943 551 527",
+  "url": "http://www.astarbesagardotegia.com/", 
+  "image":{
+  "@type":"ImageObject", 
+  "url":"http://opendata.euskadi.eus/contenidos/b_restauracion/0000003597_b1_rec_turismo/es_3597/images/Astarbe-Caserio-Astigarraga-H.jpg"
+}, 
+  "paymentAccepted":"Cash, credit card, card"
+}

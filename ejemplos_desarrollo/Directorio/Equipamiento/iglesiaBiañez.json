@@ -1,0 +1,27 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Church", 
+  "@id":"http://opendata.euskadi.eus/id/es/patrimonio-cultural/iglesia/antigua-iglesia-de-bianez/",
+  "name": "ANTIGUA IGLESIA DE BIAÑEZ", 
+  "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "http://opendata.euskadi.eus/es/patrimonio-cultural/antigua-iglesia-de-bianez/w79-contdata/es/"
+      },
+  "description": "La iglesia vieja de Biañez, convertida hoy por hoy en museo, fue construida entre los siglos XV y XVI. La nave del templo no tiene bóveda, pero sí cuenta con una portada gótica apuntada, sin concesiones a la decoración. 
+Debido a unas obras de restauración se pudo descubrir un gran tesoro en el cabecero del templo. Entre 1988, al ser retirado el retablo barroco del siglo XVII, encontraron unos murales del renacimiento. Se asemejaban a la estructura de un retablo y en ellas se representan 12 escenas de la Pasión de Cristo, la Última Cena y el Martirio de San Andrés. Son unos 90 metros cuadrados pintados y datan de 1535-1540. Las pinturas fueron restauradas en 1993",
+  "telephone":"+34 696 446 301",
+  "address": {
+  "@type": "PostalAddress",
+  "addressLocality": "KARRANTZA HARANA/VALLE DE CARRANZA",
+  "addressRegion":"BIZKAIA",
+  "postalCode": "48891",
+  "addressCountry":"ES",
+  "streetAddress": "Barrio de Biañez"
+  }, 
+  "specialOpeningHoursSpecification":{
+  "@type":"OpeningHoursSpecification", 
+  "dayOfWeek":["Saturday","Sunday"], 
+  "opens":"13:00", 
+  "description":"Se organizan visitas guiadas. Concertar cita en la Oficina de Turismo"
+  }
+}
